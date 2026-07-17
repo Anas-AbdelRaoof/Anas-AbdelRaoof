@@ -11,9 +11,6 @@
 * ### Statistics Onramp - MathWorks
 * ### Professional English for Software Engineers - Manara Tech
 * ### Python - Elzero Academy
-* ## Links:
-* ### [MATLAB Cody](https://www.mathworks.com/matlabcentral/cody/players/41442137): For MATLAB challenges and competitions.
-* ### [Kaggle](https://www.kaggle.com/anasabdelraoof): For Artificial Intelligence and Data Analysis.
 * ## Projects:
 * ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
 * ## Top certificates:
@@ -26,4 +23,6 @@
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
+[![MATLAB Cody](https://img.shields.io/badge/MATLAB Cody-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://www.leetcode.com/pratham__](https://www.mathworks.com/matlabcentral/cody/players/41442137))
+
 
