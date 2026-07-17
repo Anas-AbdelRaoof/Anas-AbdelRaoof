@@ -17,5 +17,6 @@
 * ## Projects:
 * ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
 * ## Top certificates:
-* <img width="160" height="120" alt="CS50x" src="https://github.com/user-attachments/assets/3386f3e2-ee58-4609-8871-e1a366b50d12" />
-<img width="160" height="120" alt="Anas-AbdelRaoof - Pandas" src="https://github.com/user-attachments/assets/f65d367f-6a69-4e54-a26a-6ed14656e12b" />
+<img width="160" height="120" alt="CS50x" src="https://github.com/user-attachments/assets/3386f3e2-ee58-4609-8871-e1a366b50d12" />
+<img width="160" height="120" alt="1784128425-D2D03A0FD6200AE2" src="https://github.com/user-attachments/assets/629c41b1-d535-4677-93bd-d392a0ab0000" />
+
