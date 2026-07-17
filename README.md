@@ -24,6 +24,7 @@
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
 [![Cody](https://img.shields.io/badge/Cody-FFA116?style=for-the-badge&logo=Cody&logoColor=white)](https://www.mathworks.com/matlabcentral/cody/players/41442137)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anasabdelraoof)
 
 
 
