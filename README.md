@@ -23,6 +23,6 @@
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
-[![MATLAB Cody](https://img.shields.io/badge/MATLAB Cody-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://www.leetcode.com/pratham__](https://www.mathworks.com/matlabcentral/cody/players/41442137))
+[![Cody](https://img.shields.io/badge/Cody-FFA116?style=for-the-badge&logo=Cody&logoColor=white)](https://www.mathworks.com/matlabcentral/cody/players/41442137)
 
 
