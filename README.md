@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-* ## Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.
+* ## Welcome, I'm Anas-AbdelRaoof (anasraoof2012@gmail.com), a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.
 * ## Skills:
 * ### Python
 * ### MATLAB
