@@ -21,5 +21,5 @@
 <img width="160" height="120" alt="1784128425-D2D03A0FD6200AE2" src="https://github.com/user-attachments/assets/629c41b1-d535-4677-93bd-d392a0ab0000" />
 
 
-* ### To see [all certificates] ⬅️...
+* ### To see [all certificates](certificates.md) ⬅️...
 
