@@ -5,6 +5,7 @@
 * ### MATLAB
 * ### Pandas
 * ### SQLite
+* ### Scikit-Learn
 * ## Courses:
 * ### CS50's Introduction to Computer Science - Harvard
 * ### MATLAB Onramp - MathWorks
