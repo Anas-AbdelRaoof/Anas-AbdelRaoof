@@ -1,11 +1,11 @@
 # Anas-AbdelRaoof
 * ## Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.
 * ## Skills:
-* ### Python
+* ### Python:
+* #### Pandas
+* #### SQLite
+* #### Scikit-Learn
 * ### MATLAB
-* ### Pandas
-* ### SQLite
-* ### Scikit-Learn
 * ## Courses:
 * ### CS50's Introduction to Computer Science - Harvard
 * ### MATLAB Onramp - MathWorks
