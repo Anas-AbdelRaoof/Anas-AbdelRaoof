@@ -6,12 +6,6 @@
 * #### SQLite
 * #### Scikit-Learn
 * ### MATLAB
-* ## Courses:
-* ### CS50's Introduction to Computer Science - Harvard
-* ### MATLAB Onramp - MathWorks
-* ### Statistics Onramp - MathWorks
-* ### Professional English for Software Engineers - Manara Tech
-* ### Python - Elzero Academy
 * ## Projects:
 * ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
 * ## Certificates:
