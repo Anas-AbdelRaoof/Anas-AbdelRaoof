@@ -8,8 +8,10 @@
 * ### MATLAB
 * ## Projects:
 * ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
+* ## Courses:
+* ### To see the courses, go [there](courses.md) ⬅️...
 * ## Certificates:
-* ### To see certificates, go [there](certificates.md) ⬅️...
+* ### To see the certificates, go [there](certificates.md) ⬅️...
 
 
 * ## Contact:
