@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-* ## Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.
+_*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.*_
 * ## Skills:
 * ### Programming Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -13,7 +13,7 @@
 * ### Database Engines:
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 * ## Projects:
-* ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
+* ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Convert your pseudocode to actual programming languages with AI.
 * ### [CS50x Bel3arabi](https://github.com/Anas-AbdelRaoof/CS50x-Bel3arabi): CS50x in Arabic.
 * ## Courses:
 * ### To see the courses, go [there](courses.md) ⬅️...
