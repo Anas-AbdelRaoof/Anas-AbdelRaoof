@@ -17,7 +17,7 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, inte
 | Project | What It Does |
 |---------|--------------|
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. |
-| [CS50x Bel3arabi](https://github.com/Anas-AbdelRaoof/CS50x-Bel3arabi) | CS50x in Arabic. |
+
 
 * ## Courses:
 * ### To see the courses, go [there](courses.md)...
