@@ -14,6 +14,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 * ## Projects:
 * ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Covert your pseudocode to actual programming languages with AI.
+* ### [CS50x Bel3arabi](https://github.com/Anas-AbdelRaoof/CS50x-Bel3arabi): CS50x in Arabic.
 * ## Courses:
 * ### To see the courses, go [there](courses.md) ⬅️...
 * ## Certificates:
