@@ -13,8 +13,12 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, inte
 * ### Database Engines:
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 * ## Projects:
-* ### [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn): Convert your pseudocode to actual programming languages with AI.
-* ### [CS50x Bel3arabi](https://github.com/Anas-AbdelRaoof/CS50x-Bel3arabi): CS50x in Arabic.
+
+| Project | What It Does |
+|---------|--------------|
+| [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. |
+| [CS50x Bel3arabi](https://github.com/Anas-AbdelRaoof/CS50x-Bel3arabi) | CS50x in Arabic. |
+
 * ## Courses:
 * ### To see the courses, go [there](courses.md)...
 * ## Certificates:
@@ -25,6 +29,7 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, inte
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
 [![Cody](https://img.shields.io/badge/Cody-0077B5?style=for-the-badge&logo=Cody&logoColor=blue)](https://www.mathworks.com/matlabcentral/cody/players/41442137)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anasabdelraoof)
+
 
 
 
