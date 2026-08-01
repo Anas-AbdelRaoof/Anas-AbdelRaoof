@@ -20,12 +20,8 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, inte
 |---------|--------------|
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. |
 
-
-* ## Courses:
-* ### To see the courses, go [there](courses.md)...
 * ## Certificates:
 * ### To see the certificates, go [there](certificates.md)...
-
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
