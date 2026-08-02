@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-_*Welcome, I'm Anas-AbdelRaoof, a 14-year-old Egyptian preparatory student, interested in Artificial Intelligence and Data Analysis.*_
+_*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artificial Intelligence and Data Analysis.*_
 * ## Skills:
 * ### Programming Languages and Editors:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
