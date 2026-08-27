@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-_*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artificial Intelligence and Data Analysis.*_
+__*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artificial Intelligence and Data Analysis.*__
 * ## Skills:
 * ### Programming Languages, Tools, and Editors:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -23,6 +23,10 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artifici
 |---------|--------------|--------|
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
 | [boilerplate-mean-variance-standard-deviation-calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [boilerplate-demographic-data-analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer), [boilerplate-medical-data-visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-medical-data-visualizer), [boilerplate-page-view-time-series-visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-page-view-time-series-visualizer), [boilerplate-sea-level-predictor](https://github.com/Anas-AbdelRaoof/boilerplate-sea-level-predictor) | The final 5 projects of Data Analysis with Python Certification from freeCodeCamp. | Completed |
+
+* ## Future Plans:
+* Computer Languages Kaggle Dataset
+* [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
