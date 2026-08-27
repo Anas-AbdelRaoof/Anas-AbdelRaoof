@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-__*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artificial Intelligence and Data Analysis.*__
+__*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competitor in NASA Space Apps Challenge 2026.*__
 * ## Skills:
 * ### Programming Languages, Tools, and Editors:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
