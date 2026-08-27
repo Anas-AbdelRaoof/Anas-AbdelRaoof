@@ -19,9 +19,9 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artifici
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 * ## Projects:
 
-| Project | What It Does |
-|---------|--------------|
-| [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. |
+| Project | What It Does | Status |
+|---------|--------------|--------|
+| [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
 
 * ## Certificates:
 * ### To see the certificates, go [there](certificates.md)...
