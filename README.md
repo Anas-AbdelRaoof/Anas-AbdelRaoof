@@ -32,7 +32,3 @@ __*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artific
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
 [![Cody](https://img.shields.io/badge/Cody-0077B5?style=for-the-badge&logo=Cody&logoColor=blue)](https://www.mathworks.com/matlabcentral/cody/players/41442137)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anasabdelraoof)
-[![NASA Space Apps Challenge](https://img.shields.io/badge/NASA%20Space%20Apps%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/dashboard/)
-
-
-
