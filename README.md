@@ -27,6 +27,7 @@ __*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artific
 * ## Future Plans:
 * Computer Languages Kaggle Dataset
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
+* [NASA Space Apps Cairo](https://spaceappscairo.com/)
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
