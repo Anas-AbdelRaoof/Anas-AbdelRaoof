@@ -22,9 +22,7 @@ _*Welcome, I'm Anas-AbdelRaoof, a 14-year-old programmer, interested in Artifici
 | Project | What It Does | Status |
 |---------|--------------|--------|
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
-
-* ## Certificates:
-* ### To see the certificates, go [there](certificates.md)...
+| [boilerplate-mean-variance-standard-deviation-calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [boilerplate-demographic-data-analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer), [boilerplate-medical-data-visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-medical-data-visualizer), [boilerplate-page-view-time-series-visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-page-view-time-series-visualizer), [boilerplate-sea-level-predictor](https://github.com/Anas-AbdelRaoof/boilerplate-sea-level-predictor) | The final 5 projects of Data Analysis with Python Certification from freeCodeCamp | Completed |
 
 * ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasraoof2012@gmail.com)
