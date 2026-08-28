@@ -22,7 +22,7 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 | Project | What It Does | Status |
 |---------|--------------|--------|
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
-| [boilerplate-mean-variance-standard-deviation-calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [boilerplate-demographic-data-analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer) | The final 5 projects in Data Analysis with Python Certification from freeCodeCamp | Completed 
+| [Mean-Variance-Standard Deviation Calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [Demographic Data Analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer), [Medical Data Visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-medical-data-visualizer), [Page View Time Series Visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-page-view-time-series-visualizer), [Sea Level Predictor](https://github.com/Anas-AbdelRaoof/boilerplate-sea-level-predictor) | The final 5 projects in Data Analysis with Python Certification from freeCodeCamp using NumPy, Pandas, Matplotlib, Seaborn, and SciPy. | Completed 
 
 * ## Future Plans:
 * Computer Languages Kaggle Dataset
