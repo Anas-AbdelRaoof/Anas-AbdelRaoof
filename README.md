@@ -8,6 +8,12 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927?style=for-the-badge&logo=sql&logoColor=white)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Programming languages — percentage
+Below is a pie chart showing the approximate distribution of programming languages I use. To change the percentages, edit the numbers in the chart URL's data array.
+
+![Programming languages percentage](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22MATLAB%22%2C%22GNU%20Octave%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C20%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%230076A8%22%2C%22%23999999%22%2C%22%23CC2927%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%7D%7D%7D%7D)
+
 * ### Data Analysis & AI Libraries:
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -21,7 +27,7 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 
 | Project | What It Does | Status |
 |---------|--------------|--------|
-| [Mean-Variance-Standard Deviation Calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [Demographic Data Analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer), [Medical Data Visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-medical-data-visualizer), [Page View Time Series Visualizer](https://github.com/Anas-AbdelRaoof/boilerplate-page-view-time-series-visualizer), [Sea Level Predictor](https://github.com/Anas-AbdelRaoof/boilerplate-sea-level-predictor) | The final 5 projects in Data Analysis with Python Certification from freeCodeCamp using NumPy, Pandas, Matplotlib, Seaborn, and SciPy. | Completed 
+| [Mean-Variance-Standard Deviation Calculator](https://github.com/Anas-AbdelRaoof/boilerplate-mean-variance-standard-deviation-calculator), [Demographic Data Analyzer](https://github.com/Anas-AbdelRaoof/boilerplate-demographic-data-analyzer) | Basic data analysis boilerplates | Active |
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
 
 * ## Future Plans:
