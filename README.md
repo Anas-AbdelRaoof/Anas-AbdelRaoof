@@ -25,7 +25,6 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 | [NoSyn](https://github.com/Anas-AbdelRaoof/NoSyn) | Convert your pseudocode to actual programming languages with AI. | Archived |
 
 * ## Future Plans:
-* Computer Languages Kaggle Dataset
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
 * [NASA Space Apps Cairo](https://spaceappscairo.com/)
 
