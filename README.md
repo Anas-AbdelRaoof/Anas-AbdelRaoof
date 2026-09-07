@@ -3,8 +3,6 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 * ## Skills:
 * ### Programming Languages, Tools, and Editors:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-![GNU Octave](https://img.shields.io/badge/GNU%20Octave-%23999999?style=for-the-badge&logo=octave&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927?style=for-the-badge&logo=sql&logoColor=white)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
