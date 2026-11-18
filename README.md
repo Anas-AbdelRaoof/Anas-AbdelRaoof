@@ -19,5 +19,5 @@
 * **Applying to Y Combinator with Biosol**
 ## Current
 ### Biosol
-#### **Working on Biosol, Biosol is a drag-and-drop tool integrated with scientific open-source AI models for biologists to analyze genetic data in hours instead of weeks, instead of calling statisticians or bioinformaticians that take weeks and a lot of money. You can leave your email in the [waitlist](https://biosol.launchlist.page/), prototype (mockups) is available, the MVP will be available within a week.**
+#### **Working on Biosol, Biosol is a drag-and-drop tool integrated with scientific open-source AI models for biologists to analyze genetic data in hours instead of weeks, instead of calling statisticians or bioinformaticians that take weeks and a lot of money. You can leave your email in the [waitlist](https://biosol.launchlist.page/), [prototype (mockups)](https://biosol-psi.vercel.app/) is available, the MVP will be available within a week.**
 ##### **Contact: anas.abdelraoof.ar@gmail.com**
