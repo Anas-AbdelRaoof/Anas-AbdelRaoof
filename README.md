@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-__*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competitor in NASA Space Apps Challenge 2026.*__
+**Data Analyst | AI Engineering Learner | Founding Biosol**
 ## Tools
 * **Python with NumPy, Pandas, Matplotlib, Seaborn, and Streamlit** 
 * **SQL with SQLite**
@@ -20,4 +20,4 @@ __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competito
 ## Current
 ### Biosol
 #### **Working on Biosol, Biosol is a drag-and-drop tool integrated with scientific open-source AI models for biologists to analyze genetic data in hours instead of weeks, instead of calling statisticians or bioinformaticians that take weeks and a lot of money. You can leave your email in the [waitlist](https://biosol.launchlist.page/), prototype (mockups) is available, the MVP will be available within a week.**
-##### _**Contact: anas.abdelraoof.ar@gmail.com**_
+##### **Contact: anas.abdelraoof.ar@gmail.com**
