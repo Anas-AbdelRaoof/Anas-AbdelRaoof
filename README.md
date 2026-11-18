@@ -1,13 +1,13 @@
 # Anas-AbdelRaoof
 __*Welcome, I'm Anas-AbdelRaoof, an ML developer & data analyst, and a competitor in NASA Space Apps Challenge 2026.*__
 ## Tools
-* **Python** with **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Streamlit** 
-* **SQL** with **SQLite**
+* **Python with NumPy, Pandas, Matplotlib, Seaborn, and Streamlit** 
+* **SQL with SQLite**
 * **Jupyter Notebooks**
 * **Git & GitHub**
 ## Skills
 * **Data Analysis (CSV, TXT, Excel) & Data Visualiztion**
-* **AI Engineering: AI Tools, AI Engineering Fundamentals (Embedding, Tokenization, etc.), Data Cleaning, RAG**
+* **AI Engineering: AI Tools, AI Engineering Fundamentals (Embedding, Tokenization, etc.), Data Cleaning, and RAG**
 * ## Projects
 | Project | What It Does | Status |
 |---------|--------------|--------|
