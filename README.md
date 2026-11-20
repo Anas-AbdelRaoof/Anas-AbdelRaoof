@@ -5,10 +5,9 @@
 * **SQL with SQLite**
 * **Jupyter Notebooks**
 * **Git and GitHub**
-* **Dify**
+* **Google AI Studio, Dify, and v0**
 ## Skills
 * **Data Analysis (CSV, TXT, Excel) & Data Visualiztion**
-* **AI Tools (Google AI Studio and Groq)**
 * **AI Engineering Fundamentals (Vector Embedding, Tokenization, MoE, and RMSNorm)**
 * **Data Cleaning**
 * **RAG (using Dify)**
