@@ -1,5 +1,5 @@
 # Anas-AbdelRaoof
-**Data Analyst | AI Engineering Learner | Founding Biosol**
+**Data Analyst | AI Engineering Learner and Developer | Founding Biosol**
 ## Tools
 * **Python with NumPy, Pandas, Matplotlib, Seaborn, and Streamlit** 
 * **SQL with SQLite**
