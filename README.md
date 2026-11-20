@@ -8,7 +8,7 @@
 * **Dify**
 ## Skills
 * **Data Analysis (CSV, TXT, Excel) & Data Visualiztion**
-* **AI Engineering: AI Tools, AI Engineering Fundamentals (Embedding, Tokenization, etc.), Data Cleaning, and RAG**
+* **AI Tools (Google AI Studio, Groq), AI Engineering Fundamentals (Vector Embedding, Tokenization, MoE), Data Cleaning, and RAG**
 * ## Projects
 | Project | What It Does | Status |
 |---------|--------------|--------|
