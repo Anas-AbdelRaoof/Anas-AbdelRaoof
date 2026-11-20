@@ -5,6 +5,7 @@
 * **SQL with SQLite**
 * **Jupyter Notebooks**
 * **Git & GitHub**
+* **Dify**
 ## Skills
 * **Data Analysis (CSV, TXT, Excel) & Data Visualiztion**
 * **AI Engineering: AI Tools, AI Engineering Fundamentals (Embedding, Tokenization, etc.), Data Cleaning, and RAG**
