@@ -8,7 +8,7 @@
 * **Google AI Studio, Dify, and v0**
 ## Skills
 * **Data Analysis (CSV, TXT, Excel) & Data Visualiztion**
-* **AI Engineering Fundamentals (Vector Embedding, Tokenization, MoE, and RMSNorm)**
+* **AI Engineering Fundamentals (Vector Embedding, Tokenization and Token Vocabulary, MoE, and RMSNorm and LayerNorm)**
 * **Data Cleaning**
 * **RAG (using Dify)**
 * ## Projects
